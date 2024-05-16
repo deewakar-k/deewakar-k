@@ -3,4 +3,4 @@
   - i'm currently learning typescript, react.js, mongo.db etc. 🌱
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deewakar-k)](https://github.com/anuraghazra/github-readme-stats)
+    ![deewakar-k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deewakar-k&theme=gotham&show_icons=true&hide_border=true&layout=compact)
