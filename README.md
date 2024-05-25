@@ -9,7 +9,7 @@
         i'm deewakar, a student, I like to code, but I don't like windows.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=A91D3A&center=true&width=410&height=45&lines=`i+code+beautiful+and+random+things.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=A91D3A&center=true&width=410&height=45&lines=i+code+beautiful+and+random+things.">
       <br>
       <b>
         ~ Deewakar Kumar ~
