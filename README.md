@@ -1,6 +1,34 @@
-### hi, i'm deewakar. i code some random things when I feel like it. 👋🏻
+<div align="justify">
 
-  - i'm currently learning typescript, react.js, mongo.db etc. 🌱
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        hey there
+      <br>
+        i'm deewakar, a student, I like to code, but I don't like windows.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=A91D3A&center=true&width=410&height=45&lines=`i+code+beautiful+and+random+things.">
+      <br>
+      <b>
+        ~ Deewakar Kumar ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
+<br>
 
-    ![deewakar-k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deewakar-k&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+<h2></h2><br>
+
+<p align="center">
+  <samp>  
+    You can reach me at [<a href="mailto:dakshftw01@gmail.com">e-mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
