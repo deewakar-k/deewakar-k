@@ -4,6 +4,6 @@
 
 c, go, typescript and linux are what i do for fun.
 
-read my [notes](https://deewakar-info.vercel.app/notes).  
+read my [writings](https://deewakar.info/notes).  
 talk with me by [email](mailto:deewakar.tech@gmail.com).  
 follow me on [twitter/x](https://x.com/deewakar01).
